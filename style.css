@@ -1,0 +1,235 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background: #F5F7FA;
+}
+/* Main */
+.main{
+
+
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1280px;
+    margin: 0 auto;
+}
+/* main content */
+.main_content{
+    background: #FFFFFF;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+
+/* about */
+.about
+{
+    margin-top: 100px ;
+    margin-bottom: 40px;
+    margin-right: auto;
+    margin-left: 80px;
+}
+/* fed */
+.fed{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-bottom: 20px;
+}
+/* name */
+.name{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+    margin-bottom: 24px;
+
+}
+/* p1 */
+.p1{
+    display: block;
+    width: 400px;
+    height: 120px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+
+}
+
+/* Project */
+.project{
+margin-left: 80px;
+margin-bottom: 50px;
+}
+
+/* pro */
+.pro{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+/* ol */
+.ol{
+margin-left: -20px;
+}
+
+.li2{
+    ont-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+color: #000000;
+}
+/* link7 */
+.link7{
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #595959;
+}
+/* qwer */
+.qwer{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    
+}
+/* Work */
+.work{
+margin-bottom: 40px;
+margin-left: 80px;
+}
+
+/* education */
+.education{
+    margin-left: 80px;
+    margin-bottom: 111px;
+}
+/* free */
+.free{
+    font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+color: #000000;
+margin-bottom: 11px;
+}
+.free1 {
+    font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+color: #FB6D3A;
+}
+/* mono */
+.mono{
+    font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+color: #A8A8A8;
+margin-bottom: 8px;
+}
+/* lor */
+.lor{
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #595959;
+margin-bottom: 20px;
+margin-left: -20px;
+}
+
+/* mana */
+.mana{
+    font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+color: #000000;
+}
+/* siedbar */
+.sidebar{
+    background: #1E2939;
+    padding-top: 40px;
+    width: 370px;
+}
+/* Photo */
+.photo{
+    width: 370px;
+    height: 354px;
+    margin-bottom: 50px;
+}
+
+/*contact1 */
+.contact1 {
+    color: #ffffff;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+   
+}
+/* Contact */
+.contact, .soft , .tech  {
+margin-left: 35px;
+
+}
+/* .contact */
+.contact{
+    margin-bottom: 40px;
+}
+
+/* Mail */
+.mail{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-right: 5px;
+}
+/* mail_link */
+.mail_link{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: gray;
+}
+/* ul */
+.ul{
+    color: #FFFFFF;
+    padding: 0px;
+    margin-left: 20px;
+}
+/* li */
+.li{
+    color: orangered;
+}
+.tekst{
+    color: #ffffff;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+/* Tech */
+.tech{
+    margin-bottom: 40px;
+}
+/* Soft */
+.soft{
+    margin-bottom: 400px;
+
+}
